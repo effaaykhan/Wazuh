@@ -15,7 +15,7 @@ This repository contains the Installation guide of Wazuh
 - Add the Wazuh repository
   ```bash
      curl -s https://packages.wazuh.com/key/GPG-KEY-WAZUH | sudo gpg --dearmor -o /usr/share/keyrings/wazuh-archive-keyring.gpg
-   echo "deb [signed-by=/usr/share/keyrings/wazuh-archive-keyring.gpg] https://packages.wazuh.com/4.x/apt/ stable main" | sudo tee /etc/apt/sources.list.d/wazuh.list
+     echo "deb [signed-by=/usr/share/keyrings/wazuh-archive-keyring.gpg] https://packages.wazuh.com/4.x/apt/ stable main" | sudo tee /etc/apt/sources.list.d/wazuh.list
   ```
 - Update the packages
   ``bash
@@ -51,7 +51,7 @@ This repository contains the Installation guide of Wazuh
   ```
 - Access the wazuh dashboard
   
-  . Open a browser and go to httpS://<IP_ADDRESS>
+  - Open a browser and go to httpS://<IP_ADDRESS>
   
-  . Login with the credentials given during the installation process
+  - Login with the credentials given during the installation process
 
