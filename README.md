@@ -51,7 +51,7 @@ This repository contains the Installation guide of Wazuh
   ```
 - Access the wazuh dashboard
   
-  - Open a browser and go to httpS://<IP_ADDRESS>
+  - Open a browser and go to https://<IP_ADDRESS>
   
   - Login with the credentials given during the installation process
 
