@@ -1,5 +1,5 @@
 # Wazuh
-This repository contains the Installation guide of Wazuh
+Wazuh is an open-source Security Information and Event Management (SIEM) and Extended Detection and Response (XDR) platform. It helps organizations with threat detection, compliance monitoring, vulnerability detection, and incident response. Wazuh is highly scalable and can be deployed on-premises or in the cloud.
 
 # Preparing the Server/System has the supported Operating System (e.g., Ubuntu, CentOS, etc.)
 - Update the Server/System
